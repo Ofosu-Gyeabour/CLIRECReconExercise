@@ -1,0 +1,7 @@
+select count(*) from t24prd.fbnk_account where recid between '196030000000000.000000' and '196329999999999.999999'
+CT T24.BP I_F.ACCOUNT
+CT FBNK.ACCOUNT '2012067635801';
+
+use CLIREC_StagingDb;
+select count(*) as 'total_Txn_History' from dbo.txn_data;
+--17662643

@@ -1,0 +1,9 @@
+C:\Users\Blessings\Documents\Project\Igor\Igor\bin\Debug\Igor.exe.config
+C:\Users\Blessings\Documents\Project\Igor\Igor\bin\Debug\Igor.exe
+C:\Users\Blessings\Documents\Project\Igor\Igor\bin\Debug\Igor.pdb
+C:\Users\Blessings\Documents\Project\Igor\Igor\obj\Debug\Igor.csprojResolveAssemblyReference.cache
+C:\Users\Blessings\Documents\Project\Igor\Igor\obj\Debug\Igor.IgorFrm.resources
+C:\Users\Blessings\Documents\Project\Igor\Igor\obj\Debug\Igor.Properties.Resources.resources
+C:\Users\Blessings\Documents\Project\Igor\Igor\obj\Debug\Igor.csproj.GenerateResource.Cache
+C:\Users\Blessings\Documents\Project\Igor\Igor\obj\Debug\Igor.exe
+C:\Users\Blessings\Documents\Project\Igor\Igor\obj\Debug\Igor.pdb
